@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Profile views (since 20/05/2022)](https://komarev.com/ghpvc/?username=frycast)
+![](https://komarev.com/ghpvc/?username=frycast)
 
 <!--
 **frycast/frycast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
