@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=frycast)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/frycast)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/frycast)
 
 <!--
 **frycast/frycast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
